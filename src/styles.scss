@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {
+  height : 100%;
+}
+#main {
+  min-height: 100%;
+}
+#footer {
+  height: 50px;
+  margin-top: -50px;
+}
+#hFooter {
+  height: 50px;
+}
